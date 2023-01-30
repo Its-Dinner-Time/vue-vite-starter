@@ -1,8 +1,5 @@
-<script setup lang="ts">
-import { HeaderVue } from '@/components';
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <HeaderVue></HeaderVue>
   <div>It's Home</div>
 </template>

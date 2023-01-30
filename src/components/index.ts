@@ -1,3 +1,3 @@
-import HeaderVue from './templates/Header.vue';
+import HeaderVue from './layouts/Header.vue';
 
 export { HeaderVue };

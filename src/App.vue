@@ -1,9 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { HeaderVue } from '@/components';
+</script>
 
 <template>
-  <div>
-    <h1 class="text-lg">Hello World</h1>
-  </div>
+  <HeaderVue></HeaderVue>
 
   <router-view></router-view>
 </template>
